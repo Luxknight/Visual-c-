@@ -1,0 +1,12 @@
+C:\Users\Windows\source\repos\Practica C sharp\Practica C sharp\bin\Debug\Practica C sharp.exe.config
+C:\Users\Windows\source\repos\Practica C sharp\Practica C sharp\bin\Debug\Practica C sharp.exe
+C:\Users\Windows\source\repos\Practica C sharp\Practica C sharp\bin\Debug\Practica C sharp.pdb
+C:\Users\Windows\source\repos\Practica C sharp\Practica C sharp\obj\Debug\Practica C sharp.csprojResolveAssemblyReference.cache
+C:\Users\Windows\source\repos\Practica C sharp\Practica C sharp\obj\Debug\Practica_C_sharp.Principal.resources
+C:\Users\Windows\source\repos\Practica C sharp\Practica C sharp\obj\Debug\Practica_C_sharp.Properties.Resources.resources
+C:\Users\Windows\source\repos\Practica C sharp\Practica C sharp\obj\Debug\Practica C sharp.csproj.GenerateResource.Cache
+C:\Users\Windows\source\repos\Practica C sharp\Practica C sharp\obj\Debug\Practica C sharp.csproj.CoreCompileInputs.cache
+C:\Users\Windows\source\repos\Practica C sharp\Practica C sharp\obj\Debug\Practica C sharp.exe
+C:\Users\Windows\source\repos\Practica C sharp\Practica C sharp\obj\Debug\Practica C sharp.pdb
+C:\Users\Windows\source\repos\Practica C sharp\Practica C sharp\obj\Debug\Practica_C_sharp.Nomina.resources
+C:\Users\Windows\source\repos\Practica C sharp\Practica C sharp\obj\Debug\Practica_C_sharp.Ticket.resources
